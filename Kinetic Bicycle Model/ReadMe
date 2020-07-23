@@ -2,3 +2,5 @@
 +This is the kinematic bicycle model notebook. 
 +Your solution should contain the history of vehicle inputs over the figure 8 trajectory as a Nx3 array.
 +Please upload your solution as a text file named figure8.txt.
+
++Do refer PDF Lateral Vehicle Dynamics.+
