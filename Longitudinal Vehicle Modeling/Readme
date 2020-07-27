@@ -3,4 +3,6 @@
 + The model accepts throttle inputs and steps through the longitudinal dynamic equations. 
 + Once implemented, we will be given a set of inputs that drives over a small road slope to test our model.
 
-+Do refer Longitudinal Vehicle Dynamics PDF for reference.
++ Do refer Longitudinal Vehicle Dynamics PDF for reference and ramp.png
+
++ Longitudinal_Vehicle_OUTPUT.txt consist of the output result values.
