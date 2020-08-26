@@ -2,7 +2,7 @@ In this project, we will write and implement a controller for the CARLA simulato
 our goal is to control the vehicle to follow a race track by navigating through preset waypoints. 
 The vehicle needs to reach these waypoints at certain desired speeds,  so both longitudinal and lateral control will be required.
 
-To do this assignment, the CARLA simulator along with the assignment code needs to be installed. Please follow these instructions:
+To do this assignment, the CARLA simulator along with the assignment code needs to be installed. Please follow these instructions:-
 
 1) Follow the CARLA Installation guide from a previous reading to install the CARLA simulator
 
