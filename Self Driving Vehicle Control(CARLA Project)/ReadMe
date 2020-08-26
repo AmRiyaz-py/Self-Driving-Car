@@ -4,7 +4,7 @@ The vehicle needs to reach these waypoints at certain desired speeds,  so both l
 
 To do this assignment, the CARLA simulator along with the assignment code needs to be installed. Please follow these instructions:-
 
-1) Follow the CARLA Installation guide from a previous reading to install the CARLA simulator
+1) Follow the CARLA Installation guide from a previous reading to install the CARLA simulator.
 
 2) Download the following "Course1FinalProject.zip" file and unpack into the subfolder folder "PythonClient" inside the "CarlaSimulator" (root) folder. 
 This will create a subfolder "Course1FinalProject" under "PythonClient" which contains the assignment files.
